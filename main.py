@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 def restar(a,b):
     c=0
     c=a-b
     print (c)
-=======
 def sumar(a,b):
     c=0
     c=a+b
