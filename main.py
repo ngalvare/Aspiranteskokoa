@@ -6,4 +6,7 @@ def menu():
     print ("5. Contactenos")
     print ("6. Salir")
 menu()
-
+a=0
+while(1):
+    menu()
+    a=input ("Elija un numero")
