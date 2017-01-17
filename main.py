@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 comenza
 tenemos anotar cada cosa 
-que cralos dice para no olvidar
+que carlos dice para no olvidar
 =======
 comenzar
 
