@@ -20,6 +20,5 @@ def menu():
     print ("5. Contactenos")
 menu()
 restar(6,2)
-sumar(5,3) 
 sumar(5,3)
 multi(5,5)
