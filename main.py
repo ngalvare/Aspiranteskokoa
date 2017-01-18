@@ -1,12 +1,14 @@
+import os 
 def menu():
-    print ("1. Vuelos")
-    print ("2. Metodo de compra")
-    print ("3. Promociones")
-    print ("4. Descuentos")
-    print ("5. Contactenos")
-    print ("6. Salir")
-menu()
+    os.system ("clear")
+    print ("\n\t\t MENU PRINCIPAL")
+    print ("\t1.Vuelos\n")
+    print ("\t2.Metodo de compra\n")
+    print ("\t3.Promociones\n")
+    print ("\t4.Descuentos\n")
+    print ("\t5.Contactenos\n")
+    print ("\t6.Salir\n\n")
 a=0
 while(1):
     menu()
-    a=input ("Elija un numero")
+    a=input ("\t\tElija un numero: ")
